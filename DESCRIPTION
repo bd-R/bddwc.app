@@ -1,7 +1,7 @@
 Package: bddwc.app
 Title: A User-Friendly Graphical Interface for Darwinizing Biodiversity Datasets
 Description: Standardizing biodiversity datasets with DWCA Terms Standard Names.
-Version: 0.0.15
+Version: 0.0.16
 Date: 2021-07-08
 Authors@R: c(
     person(
